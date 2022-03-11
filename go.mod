@@ -3,13 +3,13 @@ module github.com/spid37/gorm-sqlite
 go 1.17
 
 require (
-	gorm.io/gorm v1.21.15
+	gorm.io/gorm v1.23.2
 	modernc.org/sqlite v1.13.1
 )
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/jinzhu/now v1.1.2 // indirect
+	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
