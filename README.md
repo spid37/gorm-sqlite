@@ -6,9 +6,6 @@ implementation. Obviously, because `modernc.org/sqlite` is a re-implementation o
 there might be missing features and stability issues. It should work for development or simple use-cases.
 
 # GORM Sqlite Driver
-
-![CI](https://github.com/cloudquery/sqlite/workflows/CI/badge.svg)
-
 ## USAGE
 
 ```go
